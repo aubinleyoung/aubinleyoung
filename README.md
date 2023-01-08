@@ -1,4 +1,4 @@
-![aubin](/image/aubin-banner.jpg)
+![aubin](/image/aubinr.jpg)
 <h1 align="center">Hi 👋, I'm Aubin SIMPEZE</h1>
 <h3 align="center">A passionate Software developer from Congo DRC</h3>
 
