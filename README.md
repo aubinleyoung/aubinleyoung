@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Microverse tasks projects**
 
-- 🌱 I’m currently learning **JavaScript, React and Redux, Ruby **
+- 🌱 I’m currently learning **Next JS **
 
 - 👨‍💻 All of my projects are available at my [Personal portfolio](https://aubinleyoung.github.io/Responsive-Portfolio-Website-Aubin/).
 
